@@ -1,0 +1,4 @@
+# Created at 2020-12-09T19:51:26.084
+Boot Manifest-JAR contains absolute paths in classpath 'F:\StacjeMeterologiczneWPolsce\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

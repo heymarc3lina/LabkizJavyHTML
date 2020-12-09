@@ -1,0 +1,15 @@
+com\mycompany\controller\StartPageServlet.class
+com\mycompany\stacjemeterologicznewpolsce\resources\JavaEE8Resource.class
+com\mycompany\controller\UpdateDataFormServlet.class
+com\mycompany\model\ValidDataModel.class
+com\mycompany\controller\ChooseTownServlet.class
+com\mycompany\controller\UpdateDataServlet.class
+com\mycompany\model\StationDataBase.class
+com\mycompany\controller\LoginPageServlet.class
+com\mycompany\model\Exceptions\StationDoesNotExistException.class
+com\mycompany\model\Measurement.class
+com\mycompany\controller\AddNewStationFormServlet.class
+com\mycompany\model\WheatherStation.class
+com\mycompany\controller\ShowStationServlet.class
+com\mycompany\controller\AddNewStationServlet.class
+com\mycompany\stacjemeterologicznewpolsce\JAXRSConfiguration.class

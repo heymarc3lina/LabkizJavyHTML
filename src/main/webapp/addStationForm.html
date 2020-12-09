@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Dodawanie nowej stacji</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+         <form action="AddNewStation">    
+             <h1>Dodawanie nowej stacji</h1>
+            <label for="town">Miasto</label>
+            <input type="text" size="32" name="townTextField" value="" /><br><br>
+            <label for="temperature">Temperatura:</label>
+            <input type="text" name="temperatureTextField" value="" /><br><br>
+            <label for="humidity">Wilgotność:</label>
+            <input type="text" name="humidityTextField" value="" /><br><br>
+            <label for="visability">Widoczność:</label>
+            <input type="text" name="visabilityTextField" value="" /><br><br>
+            <label for="pressure">Ciśnienie:</label>
+            <input type="text" name="pressureTextField" value="" /><br><br>
+            <label for="rainfall">Wysokość opadów atmosferycznych:</label>
+            <input type="text" name="rainfallTextField" value="" /><br><br>
+            <label for="sunlight">Promieniowanie słoneczne:</label>
+            <input type="text" name="sunlightTextField" value="" /><br><br>
+            <label for="smog">Poziom smogu:</label>
+            <input type="text" name="smogTextField" value="" /><br><br>
+            <input type="submit" value="Zatwierdż" /><br><br>   
+        </form> 
+        <form action="StartPage" method="GET">
+            <input type="submit" value="Wróć" />
+        </form> 
+        
+    </body>
+</html>

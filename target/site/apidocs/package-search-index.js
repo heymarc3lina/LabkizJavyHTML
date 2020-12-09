@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.mycompany.controller"},{"l":"com.mycompany.model"},{"l":"com.mycompany.model.Exceptions"},{"l":"com.mycompany.stacjemeterologicznewpolsce"},{"l":"com.mycompany.stacjemeterologicznewpolsce.resources"}]

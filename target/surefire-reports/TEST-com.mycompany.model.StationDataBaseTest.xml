@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mycompany.model.StationDataBaseTest" time="0.126" tests="16" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.class.path" value="F:\StacjeMeterologiczneWPolsce\target\test-classes;F:\StacjeMeterologiczneWPolsce\target\classes;C:\Users\heymarc3lina\.m2\repository\javax\javaee-api\8.0\javaee-api-8.0.jar;C:\Users\heymarc3lina\.m2\repository\com\sun\mail\javax.mail\1.6.0\javax.mail-1.6.0.jar;C:\Users\heymarc3lina\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\heymarc3lina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;F:\StacjeMeterologiczneWPolsce/src/test;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Belgrade"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.8\bin"/>
+    <property name="sun.java.command" value="C:\Users\heymarc3lina\AppData\Local\Temp\surefire12632402370371753830\surefirebooter11951420191182113984.jar C:\Users\heymarc3lina\AppData\Local\Temp\surefire12632402370371753830 2020-12-09T19-51-25_417-jvmRun1 surefire326224827243511742tmp surefire_07649438064451584832tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="F:\StacjeMeterologiczneWPolsce\target\test-classes;F:\StacjeMeterologiczneWPolsce\target\classes;C:\Users\heymarc3lina\.m2\repository\javax\javaee-api\8.0\javaee-api-8.0.jar;C:\Users\heymarc3lina\.m2\repository\com\sun\mail\javax.mail\1.6.0\javax.mail-1.6.0.jar;C:\Users\heymarc3lina\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\heymarc3lina\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\heymarc3lina\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;F:\StacjeMeterologiczneWPolsce/src/test;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\heymarc3lina"/>
+    <property name="user.language" value="pl"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.8"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="F:\StacjeMeterologiczneWPolsce"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\heymarc3lina\AppData\Local\Temp\surefire12632402370371753830\surefirebooter11951420191182113984.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.8+10-LTS"/>
+    <property name="user.name" value="heymarc3lina"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.1\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\heymarc3lina\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\HEYMAR~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.8"/>
+    <property name="user.dir" value="F:\StacjeMeterologiczneWPolsce"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Visual Leak Detector\bin\Win32;C:\Program Files (x86)\Visual Leak Detector\bin\Win64;C:\Program Files\doxygen\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Users\heymarc3lina\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Java\jdk-11.0.8\bin;C:\Python38\Scripts\;C:\Python38\;C:\Users\heymarc3lina\AppData\Local\Microsoft\WindowsApps;C:\Users\heymarc3lina\AppData\Local\Programs\MiKTeX 2.9\miktex\bin\x64\;C:\Users\heymarc3lina\.dotnet\tools;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.8+10-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testFindStation(String, boolean)[1]" classname="com.mycompany.model.StationDataBaseTest" time="0.038"/>
+  <testcase name="testFindStation(String, boolean)[2]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testFindStation(String, boolean)[3]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testFindStation(String, boolean)[4]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testAddStation(WheatherStation, int)[1]" classname="com.mycompany.model.StationDataBaseTest" time="0"/>
+  <testcase name="testAddStation(WheatherStation, int)[2]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testGetStationByIdForIncorrectTown(String)[1]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testGetStationByIdForIncorrectTown(String)[2]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testGetStationByIdForIncorrectTown(String)[3]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testGetStationByIdForCorrectTown(String)[1]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testLoadFromFile(String)[1]" classname="com.mycompany.model.StationDataBaseTest" time="0.002"/>
+  <testcase name="testLoadFromFile(String)[2]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="testLoadFromFile(String)[3]" classname="com.mycompany.model.StationDataBaseTest" time="0.001"/>
+  <testcase name="saveBaseToFile(String)[1]" classname="com.mycompany.model.StationDataBaseTest" time="0.002"/>
+  <testcase name="saveBaseToFile(String)[2]" classname="com.mycompany.model.StationDataBaseTest" time="0.002"/>
+  <testcase name="saveBaseToFile(String)[3]" classname="com.mycompany.model.StationDataBaseTest" time="0.002"/>
+</testsuite>
